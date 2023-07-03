@@ -7,8 +7,8 @@ func main() {
 	var arr [5]int
 
 	//sem tamanho
-	idades := [...]int{20, 30, 40, 50}
-	nomes := [3]string{"João", "Maria", "Pedro"}
+	// idades := [...]int{20, 30, 40, 50}
+	// nomes := [3]string{"João", "Maria", "Pedro"}
 	// Inserir elementos no array
 	arr[0] = 10
 	arr[1] = 20

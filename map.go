@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+
+//var m = make(map[string]int)
+
 func main() {
 	// Declaração e inicialização de um map
 	m := make(map[string]int)
